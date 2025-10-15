@@ -1,8 +1,14 @@
-<!-- Paste this into your README.md -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shuresm57&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=shuresm57&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=shuresm57&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shuresm57&show_icons=true" />
+</picture>
 <pre>
 ──────────────────────────────────────────────────────────────
 OS: ...................... Windows 11, Ubuntu WSL, MacOS
