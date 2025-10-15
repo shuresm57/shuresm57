@@ -1,7 +1,7 @@
 <!-- Paste this into your README.md -->
-<pre>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shuresm57)](https://github.com/anuraghazra/github-readme-stats)
-</pre>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shuresm57&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 <pre>
 ──────────────────────────────────────────────────────────────
