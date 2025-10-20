@@ -11,7 +11,7 @@
 </picture>
 <pre>
 ──────────────────────────────────────────────────────────────
-OS: ...................... Windows 11, Ubuntu WSL, MacOS
+OS: ...................... Windows, Ubuntu WSL, MacOS
 About: ................... IT Student
 Kernel: .................. Java + Spring Boot + Azure
 IDE: ..................... IntelliJ IDEA, VS Code
